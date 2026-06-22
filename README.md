@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate at University of Macedonia.I like new ideas and have completed multiple full-stack projects with new technologies.I am a Computer enthusiast and like to work with people with positive mindset and groundbreaking ideas.<br>
+Computer Science undergraduate at University of Macedonia.I like new ideas and have completed multiple full-stack projects with new technologies.I am a Computer enthusiast and like to work with people with positive mindset and groundbreaking ideas.I am really passionate about Sports and Tech .<br>
 
 
 ## 🌐 Socials:
